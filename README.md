@@ -4,6 +4,6 @@ ECE511 Sp2025: Pipelined Digital Compute Memory for Area-Efficient Generative Mo
 
 All source RTLs for PDCM, SA, and DCIM and the associated testbenches are included
 
-File structres for each design are consistent with ECE411 MP.
+File structures of each design are consistent with ECE411 MP.
 
 However, all data related to the 28nm PDK used in the project are not included in this repository due to non-disclosure agreement (NDA) required by the chip vendor. Therefore, the synthesis and PnR scripts (implemented in Cadence Genus & Innovus) cannot be posted publicly. Please contact ryfu2@illinois.edu for any additional information if needed.
