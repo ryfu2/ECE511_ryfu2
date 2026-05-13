@@ -6,4 +6,4 @@ All source RTLs for PDCM, SA, and DCIM and the associated testbenches are includ
 
 File structures of each design are consistent with ECE411 MP.
 
-However, all experimental data related to the 28nm PDK used in the project are not included in this repository due to non-disclosure agreement (NDA) required by the chip vendor. Therefore, the synthesis and PnR scripts (for Cadence Genus & Innovus to generate multiple layouts and design points) cannot be posted publicly. Please contact ryfu2@illinois.edu for any additional information if needed.
+However, all experimental data related to the 28nm PDK used in the project are not included in this repository due to non-disclosure agreement (NDA) required by the chip vendor. Therefore, the synthesis and PnR scripts (used by Cadence Genus & Innovus to generate multiple layouts and design points) cannot be posted publicly. Please contact ryfu2@illinois.edu for any additional information if needed.
